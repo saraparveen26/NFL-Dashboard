@@ -2,14 +2,12 @@
 
 ## Introduction
 
-This project was created as part of a group project with collaboration with team members. The original repository can be accessed at https://github.com/gusmendesbh/project3-group1 and it shows the commits history.
+This project was created as part of a group project with collaboration with team members. The original repository can be accessed at https://github.com/gusmendesbh/project3-group1 and it shows the commits history. 
 
 
 ## Web Links:
 
-GitHub Pages: https://gusmendesbh.github.io/project3-group1/html/teams.html
-
-Flask-AWS: https://flask-service.ofeg1bv1af188.ca-central-1.cs.amazonlightsail.com/index.html
+GitHub Pages: https://saraparveen26.github.io/NFL-Dashboard/
 
 
 ## Project Description 
@@ -116,7 +114,7 @@ Following are some screenshots of the **Main dashboard**:
 ![Interactive Teams Venue Map](data/Images/Image5.PNG)
 
 
-- The Teams and Athletes dasboards have visualizations created using [D3](https://d3js.org/) and [Highcharts](https://www.highcharts.com/). **Highcharts** is a new JS library which was not covered during class.     
+- The Teams and Athletes dashboards have visualizations created using [D3](https://d3js.org/) and [Highcharts](https://www.highcharts.com/). **Highcharts** is a new JS library which was not covered during class.     
 
 Following are some screenshots of the **Teams dashboard**:
 
