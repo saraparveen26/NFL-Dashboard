@@ -138,18 +138,6 @@ Following are some screenshots of the **Athletes dashboard**:
 
 The visualizations are customized by adding features such as labels, legends, tooltips, and interactivity.
 
-### **Step 5: Setup the Python Flask app**
-
-In order to deploy the dashboard to web, we created a Python Flask application. In the Flask application, a few routes were added to display teams and athletes’ pages depending on the requested URL. A debugger was also included when running the application in development mode to enable quick identification and fixing of errors. 
-
-### **Step 6: Deployment to Aamazon Web Services (AWS)**
-
-After developing the Flask app, we deployed it to AWS. It is also deployed to GitHub Pages. Following are the links to access it on AWS and GitHub:
-
-- https://flask-service.ofeg1bv1af188.ca-central-1.cs.amazonlightsail.com/index.html
-
-- https://gusmendesbh.github.io/project3-group1/index.html
-
 
 ## Conclusion
 
