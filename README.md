@@ -2,18 +2,10 @@
 
 ## Introduction
 
-This project is created as part of the Data Analytics Boot Camp at University of Toronto.     
-Following are the team members:
-
-- Sara Parveen
-- Lailah Libay
-- Gus Mendes
-- Jacob Evans
+This project was created as part of a group project with collaboration with team members. The original repository can be accessed at https://github.com/gusmendesbh/project3-group1 and it shows the commits history.
 
 
 ## Web Links:
-
-Repository: https://github.com/gusmendesbh/project3-group1
 
 GitHub Pages: https://gusmendesbh.github.io/project3-group1/html/teams.html
 
